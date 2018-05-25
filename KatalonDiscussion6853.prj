@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Project>
+   <description>https://forum.katalon.com/discussion/6853/how-to-retrieve-os-browser-and-screen-resolution-of-the-machine-performing-my-test-suite</description>
+   <name>KatalonDiscussion6853</name>
+   <tag></tag>
+   <UUID>8216af58-a2c7-4744-bfd4-56b1f46d8ed0</UUID>
+   <migratedVersion>5.4.0</migratedVersion>
+   <pageLoadTimeout>0</pageLoadTimeout>
+</Project>
